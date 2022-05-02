@@ -43,7 +43,6 @@ body {
 
 /* General style and index page */
 main {
-	padding-top: 24px;
 	width: 75%;
 	margin: 32px auto;
 	background-color: #eeeeee;
@@ -78,14 +77,13 @@ li:hover {
 	background-color: #f58ea0;
 	padding: 8px 2px;
 }
-.subtopic {
+/* .subtopic {
 	background-color: #ebf64d;
-}
+} */
 a img {
 	width: 125px;
 	height: 125px;
 	border-radius: 50%;
-	cursor: pointer;
 }
 .section_treats article {
 	margin: 24px 0;
@@ -125,6 +123,6 @@ footer h3 {
 	text-align: center;
 	padding: 24px;
 }
-footer h3 contact a:visited {
+/* footer h3 a:visited {
 	color: rgb(30, 215, 240);
-}
+} */
